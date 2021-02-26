@@ -20,7 +20,7 @@ The images will be saved and more the number of images from different angles mor
 Upload the positive and negative images in the trainer GUI and tell the **negative image count** and in **common** set the **No. of stages** as 17 and in **Cascade** the **Sample width** as 38 
 Then press the **START** button
 
-4- Download the xml file of the model obtained and then open the **'Using Trained Model'** and replace the name in the required place and test the modelon any video,image or live video
+4- Download the xml file of the model obtained and then open the **'Using Trained Model.py'** and replace the name in the required place and test the modelon any video,image or live video
 
 ## NOTE- RASBERRY PI CAN ALSO BE INTEGRTED IN THIS
 
